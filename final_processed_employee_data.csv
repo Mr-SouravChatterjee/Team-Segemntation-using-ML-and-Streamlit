@@ -1,0 +1,259 @@
+Name,Experience,Job Role,Gender,Skills,Phone Number,Email,Performance Rating,Area Code,Email Domain,Valid Email
+Alice Turner,7,Engineer,female,java python html css,(111) 123-4567,alice.turner@email.com,5,111,email.com,TRUE
+Bob Evans,3,Analyst,male,data analysis sql excel,(222) 234-5678,bob.evans@email.com,5,222,email.com,TRUE
+Emma Foster,5,Designer,female,ui/ux design wireframing adobe xd,(333) 345-6789,emma.foster@email.com,5,333,email.com,TRUE
+Jack Murphy,2,Developer,male,html css javascript react,(444) 456-7890,jack.murphy@email.com,3,444,email.com,TRUE
+Sophia Adams,9,Data Scientist,female,python machine learning data analysis,(555) 567-8901,sophia.adams@email.com,5,555,email.com,TRUE
+Liam Turner,4,Content Writer,male,copywriting blogging seo,(666) 678-9012,liam.turner@email.com,5,666,email.com,TRUE
+Olivia Cook,8,Engineer,female,testing test automation bug tracking,(777) 789-0123,olivia.cook@email.com,5,777,email.com,TRUE
+Ethan Martinez,6,Manager,male,product strategy agile market analysis,(888) 890-1234,ethan.martinez@email.com,5,888,email.com,TRUE
+Mia Turner,3,Engineer,female,java c++ cloud architecture,(999) 901-2345,mia.turner@email.com,5,999,email.com,TRUE
+Lucas Foster,7,Designer,male,user research wireframing adobe xd,(111) 012-3456,lucas.foster@email.com,5,111,email.com,TRUE
+Amelia Adams,4,Manager,female,digital marketing social media analytics,(222) 123-4567,amelia.adams@email.com,5,222,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(333) 234-5678,benjamin.turner@email.com,5,333,email.com,TRUE
+Harper Turner,1,Content Creator,female,video editing social media seo,(444) 345-6789,harper.turner@email.com,5,444,email.com,TRUE
+Henry Cook,7,Analyst,male,data cleaning visualization excel,(555) 456-7890,henry.cook@email.com,5,555,email.com,TRUE
+Grace Foster,4,Designer,female,wireframing user research prototyping,(666) 567-8901,grace.foster@email.com,5,666,email.com,TRUE
+Samuel Murphy,2,Developer,male,python django rest api,(777) 678-9012,samuel.murphy@email.com,3,777,email.com,TRUE
+Victoria Turner,5,Marketing Specialist,female,seo content creation email marketing,(888) 789-0123,victoria.turner@email.com,5,888,email.com,TRUE
+Joseph Cook,10,Manager,male,it infrastructure team leadership,(999) 890-1234,joseph.cook@email.com,5,999,email.com,TRUE
+Natalie Foster,3,Designer,female,adobe creative suite illustration,(111) 901-2345,natalie.foster@email.com,5,111,email.com,TRUE
+Christopher Turner,6,Manager,male,product strategy market analysis,(222) 012-3456,christopher.turner@email.com,5,222,email.com,TRUE
+Olivia Murphy,4,Hr Specialist,female,employee relations recruitment,(333) 123-4567,olivia.murphy@email.com,5,333,email.com,TRUE
+Andrew Adams,12,Developer,male,java spring database design,(444) 234-5678,andrew.adams@email.com,5,444,email.com,TRUE
+Chloe Turner,1,Designer,female,ui/ux design wireframing adobe xd,(555) 345-6789,chloe.turner@email.com,3,555,email.com,TRUE
+Daniel Evans,7,Designer,male,industrial design cad 3d modeling,(666) 456-7890,daniel.evans@email.com,5,666,email.com,TRUE
+Sophia Foster,9,Data Scientist,female,python machine learning data analysis,(777) 567-8901,sophia.foster@email.com,5,777,email.com,TRUE
+Liam Murphy,2,Developer,male,html css javascript react,(888) 678-9012,liam.murphy@email.com,5,888,email.com,TRUE
+Isabella Turner,3,Content Writer,female,copywriting blogging seo,(999) 789-0123,isabella.turner@email.com,5,999,email.com,TRUE
+Jackson Cook,8,Engineer,male,testing test automation bug tracking,(111) 890-1234,jackson.cook@email.com,5,111,email.com,TRUE
+Olivia Turner,5,Manager,female,product strategy agile market analysis,(222) 901-2345,olivia.turner@email.com,5,222,email.com,TRUE
+Ethan Adams,6,Analyst,male,data analysis reporting excel,(333) 012-3456,ethan.adams@email.com,5,333,email.com,TRUE
+Mia Hall,3,Software Architect,female,system design java cloud architecture,(444) 123-4567,mia.hall@email.com,5,444,email.com,TRUE
+Lucas Foster,4,Designer,male,user research wireframing adobe xd,(555) 234-5678,lucas.foster@email.com,5,555,email.com,TRUE
+Amelia Murphy,6,Manager,female,digital marketing social media analytics,(666) 345-6789,amelia.murphy@email.com,5,666,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(777) 456-7890,benjamin.turner@email.com,5,777,email.com,TRUE
+Harper Adams,2,Content Creator,female,video editing social media seo,(888) 567-8901,harper.adams@email.com,5,888,email.com,TRUE
+Henry Martinez,7,Analyst,male,data cleaning visualization excel,(999) 678-9012,henry.martinez@email.com,5,999,email.com,TRUE
+Grace Baker,4,Designer,female,wireframing user research prototyping,(111) 789-0123,grace.baker@email.com,5,111,email.com,TRUE
+Samuel Turner,1,Developer,male,python django rest api,(222) 890-1234,samuel.turner@email.com,3,222,email.com,TRUE
+Victoria Cook,5,Marketing Specialist,female,seo content creation email marketing,(333) 901-2345,victoria.cook@email.com,5,333,email.com,TRUE
+Joseph Turner,10,Manager,male,it infrastructure team leadership,(444) 012-3456,joseph.turner@email.com,5,444,email.com,TRUE
+Natalie Adams,3,Designer,female,adobe creative suite illustration,(555) 123-4567,natalie.adams@email.com,5,555,email.com,TRUE
+Christopher Foster,6,Manager,male,product strategy market analysis,(666) 234-5678,christopher.foster@email.com,5,666,email.com,TRUE
+Olivia Turner,4,Hr Specialist,female,employee relations recruitment,(777) 345-6789,olivia.turner@email.com,5,777,email.com,TRUE
+Andrew Adams,12,Developer,male,java spring database design,(888) 456-7890,andrew.adams@email.com,5,888,email.com,TRUE
+Chloe Martinez,1,Designer,female,ui/ux design wireframing adobe xd,(999) 567-8901,chloe.martinez@email.com,3,999,email.com,TRUE
+Daniel Foster,7,Designer,male,industrial design cad 3d modeling,(111) 678-9012,daniel.foster@email.com,5,111,email.com,TRUE
+Sophia Murphy,9,Data Scientist,female,python machine learning data analysis,(222) 789-0123,sophia.murphy@email.com,5,222,email.com,TRUE
+Liam Turner,2,Developer,male,html css javascript react,(333) 890-1234,liam.turner@email.com,5,333,email.com,TRUE
+Isabella Adams,3,Content Writer,female,copywriting blogging seo,(444) 901-2345,isabella.adams@email.com,5,444,email.com,TRUE
+Jackson Turner,8,Engineer,male,testing test automation bug tracking,(555) 012-3456,jackson.turner@email.com,5,555,email.com,TRUE
+Olivia Cook,5,Manager,female,product strategy agile market analysis,(666) 123-4567,olivia.cook@email.com,5,666,email.com,TRUE
+Ethan Adams,6,Analyst,male,data analysis reporting excel,(777) 234-5678,ethan.adams@email.com,5,777,email.com,TRUE
+Mia Foster,3,Software Architect,female,system design java cloud architecture,(888) 345-6789,mia.foster@email.com,5,888,email.com,TRUE
+Lucas Turner,4,Designer,male,user research wireframing adobe xd,(999) 456-7890,lucas.turner@email.com,5,999,email.com,TRUE
+Amelia Murphy,6,Manager,female,digital marketing social media analytics,(111) 567-8901,amelia.murphy@email.com,5,111,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(222) 678-9012,benjamin.turner@email.com,5,222,email.com,TRUE
+Harper Adams,2,Content Creator,female,video editing social media seo,(333) 789-0123,harper.adams@email.com,5,333,email.com,TRUE
+Henry Martinez,7,Analyst,male,data cleaning visualization excel,(444) 890-1234,henry.martinez@email.com,5,444,email.com,TRUE
+Grace Baker,4,Designer,female,wireframing user research prototyping,(555) 901-2345,grace.baker@email.com,5,555,email.com,TRUE
+Samuel Turner,1,Developer,male,python django rest api,(666) 012-3456,samuel.turner@email.com,3,666,email.com,TRUE
+Victoria Cook,5,Marketing Specialist,female,seo content creation email marketing,(777) 123-4567,victoria.cook@email.com,5,777,email.com,TRUE
+Joseph Turner,10,Manager,male,it infrastructure team leadership,(888) 234-5678,joseph.turner@email.com,5,888,email.com,TRUE
+Natalie Adams,3,Designer,female,adobe creative suite illustration,(999) 345-6789,natalie.adams@email.com,5,999,email.com,TRUE
+Christopher Foster,6,Manager,male,product strategy market analysis,(111) 456-7890,christopher.foster@email.com,5,111,email.com,TRUE
+Olivia Turner,4,Hr Specialist,female,employee relations recruitment,(222) 567-8901,olivia.turner@email.com,5,222,email.com,TRUE
+Andrew Adams,12,Developer,male,java spring database design,(333) 678-9012,andrew.adams@email.com,5,333,email.com,TRUE
+Chloe Martinez,1,Designer,female,ui/ux design wireframing adobe xd,(444) 789-0123,chloe.martinez@email.com,3,444,email.com,TRUE
+Daniel Foster,7,Designer,male,industrial design cad 3d modeling,(555) 890-1234,daniel.foster@email.com,5,555,email.com,TRUE
+Sophia Murphy,9,Data Scientist,female,python machine learning data analysis,(666) 901-2345,sophia.murphy@email.com,5,666,email.com,TRUE
+Liam Turner,2,Developer,male,html css javascript react,(777) 012-3456,liam.turner@email.com,5,777,email.com,TRUE
+Isabella Adams,3,Content Writer,female,copywriting blogging seo,(888) 123-4567,isabella.adams@email.com,5,888,email.com,TRUE
+Jackson Turner,8,Engineer,male,testing test automation bug tracking,(999) 234-5678,jackson.turner@email.com,5,999,email.com,TRUE
+Olivia Cook,5,Manager,female,product strategy agile market analysis,(111) 345-6789,olivia.cook@email.com,5,111,email.com,TRUE
+Ethan Adams,6,Analyst,male,data analysis reporting excel,(222) 456-7890,ethan.adams@email.com,5,222,email.com,TRUE
+Mia Foster,3,Software Architect,female,system design java cloud architecture,(333) 567-8901,mia.foster@email.com,5,333,email.com,TRUE
+Lucas Turner,4,Designer,male,user research wireframing adobe xd,(444) 678-9012,lucas.turner@email.com,5,444,email.com,TRUE
+Amelia Murphy,6,Manager,female,digital marketing social media analytics,(555) 789-0123,amelia.murphy@email.com,5,555,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(666) 890-1234,benjamin.turner@email.com,5,666,email.com,TRUE
+Harper Adams,2,Content Creator,female,video editing social media seo,(777) 901-2345,harper.adams@email.com,5,777,email.com,TRUE
+Henry Martinez,7,Analyst,male,data cleaning visualization excel,(888) 012-3456,henry.martinez@email.com,5,888,email.com,TRUE
+Grace Baker,4,Designer,female,wireframing user research prototyping,(999) 123-4567,grace.baker@email.com,5,999,email.com,TRUE
+Samuel Turner,1,Developer,male,python django rest api,(111) 234-5678,samuel.turner@email.com,3,111,email.com,TRUE
+Victoria Cook,5,Marketing Specialist,female,seo content creation email marketing,(222) 345-6789,victoria.cook@email.com,5,222,email.com,TRUE
+Joseph Turner,10,Manager,male,it infrastructure team leadership,(333) 456-7890,joseph.turner@email.com,5,333,email.com,TRUE
+Natalie Adams,3,Designer,female,adobe creative suite illustration,(444) 567-8901,natalie.adams@email.com,5,444,email.com,TRUE
+Christopher Foster,6,Manager,male,product strategy market analysis,(555) 678-9012,christopher.foster@email.com,5,555,email.com,TRUE
+Olivia Turner,4,Hr Specialist,female,employee relations recruitment,(666) 789-0123,olivia.turner@email.com,5,666,email.com,TRUE
+Andrew Adams,12,Developer,male,java spring database design,(777) 890-1234,andrew.adams@email.com,5,777,email.com,TRUE
+Chloe Martinez,1,Designer,female,ui/ux design wireframing adobe xd,(888) 901-2345,chloe.martinez@email.com,3,888,email.com,TRUE
+Daniel Foster,7,Designer,male,industrial design cad 3d modeling,(999) 012-3456,daniel.foster@email.com,5,999,email.com,TRUE
+Sophia Murphy,9,Data Scientist,female,python machine learning data analysis,(111) 123-4567,sophia.murphy@email.com,5,111,email.com,TRUE
+Liam Turner,2,Developer,male,html css javascript react,(222) 234-5678,liam.turner@email.com,5,222,email.com,TRUE
+Isabella Adams,3,Content Writer,female,copywriting blogging seo,(333) 345-6789,isabella.adams@email.com,5,333,email.com,TRUE
+Jackson Turner,8,Engineer,male,testing test automation bug tracking,(444) 456-7890,jackson.turner@email.com,5,444,email.com,TRUE
+Olivia Cook,5,Manager,female,product strategy agile market analysis,(555) 567-8901,olivia.cook@email.com,5,555,email.com,TRUE
+Ethan Adams,6,Analyst,male,data analysis reporting excel,(666) 678-9012,ethan.adams@email.com,5,666,email.com,TRUE
+Mia Foster,3,Software Architect,female,system design java cloud architecture,(777) 789-0123,mia.foster@email.com,5,777,email.com,TRUE
+Lucas Turner,4,Designer,male,user research wireframing adobe xd,(888) 890-1234,lucas.turner@email.com,5,888,email.com,TRUE
+Amelia Murphy,6,Manager,female,digital marketing social media analytics,(999) 901-2345,amelia.murphy@email.com,5,999,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(111) 012-3456,benjamin.turner@email.com,5,111,email.com,TRUE
+Harper Adams,2,Content Creator,female,video editing social media seo,(222) 123-4567,harper.adams@email.com,5,222,email.com,TRUE
+Henry Martinez,7,Analyst,male,data cleaning visualization excel,(333) 234-5678,henry.martinez@email.com,5,333,email.com,TRUE
+Grace Baker,4,Designer,female,wireframing user research prototyping,(444) 345-6789,grace.baker@email.com,5,444,email.com,TRUE
+Samuel Turner,1,Developer,male,python django rest api,(555) 456-7890,samuel.turner@email.com,3,555,email.com,TRUE
+Victoria Cook,5,Marketing Specialist,female,seo content creation email marketing,(666) 567-8901,victoria.cook@email.com,5,666,email.com,TRUE
+Joseph Turner,10,Manager,male,it infrastructure team leadership,(777) 678-9012,joseph.turner@email.com,5,777,email.com,TRUE
+Natalie Adams,3,Designer,female,adobe creative suite illustration,(888) 789-0123,natalie.adams@email.com,5,888,email.com,TRUE
+Christopher Foster,6,Manager,male,product strategy market analysis,(999) 890-1234,christopher.foster@email.com,5,999,email.com,TRUE
+Olivia Turner,4,Hr Specialist,female,employee relations recruitment,(111) 901-2345,olivia.turner@email.com,5,111,email.com,TRUE
+Andrew Adams,12,Developer,male,java spring database design,(222) 012-3456,andrew.adams@email.com,5,222,email.com,TRUE
+Chloe Martinez,1,Designer,female,ui/ux design wireframing adobe xd,(333) 123-4567,chloe.martinez@email.com,3,333,email.com,TRUE
+Daniel Foster,7,Designer,male,industrial design cad 3d modeling,(444) 234-5678,daniel.foster@email.com,5,444,email.com,TRUE
+Sophia Murphy,9,Data Scientist,female,python machine learning data analysis,(555) 345-6789,sophia.murphy@email.com,5,555,email.com,TRUE
+Liam Turner,2,Developer,male,html css javascript react,(666) 456-7890,liam.turner@email.com,5,666,email.com,TRUE
+Isabella Adams,3,Content Writer,female,copywriting blogging seo,(777) 567-8901,isabella.adams@email.com,5,777,email.com,TRUE
+Jackson Turner,8,Engineer,male,testing test automation bug tracking,(888) 678-9012,jackson.turner@email.com,5,888,email.com,TRUE
+Olivia Cook,5,Manager,female,product strategy agile market analysis,(999) 789-0123,olivia.cook@email.com,5,999,email.com,TRUE
+Ethan Adams,6,Analyst,male,data analysis reporting excel,(111) 890-1234,ethan.adams@email.com,5,111,email.com,TRUE
+Mia Foster,3,Software Architect,female,system design java cloud architecture,(222) 901-2345,mia.foster@email.com,5,222,email.com,TRUE
+Lucas Turner,4,Designer,male,user research wireframing adobe xd,(333) 012-3456,lucas.turner@email.com,5,333,email.com,TRUE
+Amelia Murphy,6,Manager,female,digital marketing social media analytics,(444) 123-4567,amelia.murphy@email.com,5,444,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(555) 234-5678,benjamin.turner@email.com,5,555,email.com,TRUE
+Harper Adams,2,Content Creator,female,video editing social media seo,(666) 345-6789,harper.adams@email.com,5,666,email.com,TRUE
+Henry Martinez,7,Analyst,male,data cleaning visualization excel,(777) 456-7890,henry.martinez@email.com,5,777,email.com,TRUE
+Grace Baker,4,Designer,female,wireframing user research prototyping,(888) 567-8901,grace.baker@email.com,5,888,email.com,TRUE
+Samuel Turner,1,Developer,male,python django rest api,(999) 678-9012,samuel.turner@email.com,3,999,email.com,TRUE
+Victoria Cook,5,Marketing Specialist,female,seo content creation email marketing,(111) 789-0123,victoria.cook@email.com,5,111,email.com,TRUE
+Joseph Turner,10,Manager,male,it infrastructure team leadership,(222) 890-1234,joseph.turner@email.com,5,222,email.com,TRUE
+Natalie Adams,3,Designer,female,adobe creative suite illustration,(333) 901-2345,natalie.adams@email.com,5,333,email.com,TRUE
+Christopher Foster,6,Manager,male,product strategy market analysis,(444) 012-3456,christopher.foster@email.com,5,444,email.com,TRUE
+Olivia Turner,4,Hr Specialist,female,employee relations recruitment,(555) 123-4567,olivia.turner@email.com,5,555,email.com,TRUE
+Andrew Adams,12,Developer,male,java spring database design,(666) 234-5678,andrew.adams@email.com,5,666,email.com,TRUE
+Chloe Martinez,1,Designer,female,ui/ux design wireframing adobe xd,(777) 345-6789,chloe.martinez@email.com,3,777,email.com,TRUE
+Daniel Foster,7,Designer,male,industrial design cad 3d modeling,(888) 456-7890,daniel.foster@email.com,5,888,email.com,TRUE
+Sophia Murphy,9,Data Scientist,female,python machine learning data analysis,(999) 567-8901,sophia.murphy@email.com,5,999,email.com,TRUE
+Liam Turner,2,Developer,male,html css javascript react,(111) 678-9012,liam.turner@email.com,5,111,email.com,TRUE
+Isabella Adams,3,Content Writer,female,copywriting blogging seo,(222) 789-0123,isabella.adams@email.com,5,222,email.com,TRUE
+Jackson Turner,8,Engineer,male,testing test automation bug tracking,(333) 890-1234,jackson.turner@email.com,5,333,email.com,TRUE
+Olivia Cook,5,Manager,female,product strategy agile market analysis,(444) 901-2345,olivia.cook@email.com,5,444,email.com,TRUE
+Ethan Adams,6,Analyst,male,data analysis reporting excel,(555) 012-3456,ethan.adams@email.com,5,555,email.com,TRUE
+Mia Foster,3,Software Architect,female,system design java cloud architecture,(666) 123-4567,mia.foster@email.com,5,666,email.com,TRUE
+Lucas Turner,4,Designer,male,user research wireframing adobe xd,(777) 234-5678,lucas.turner@email.com,5,777,email.com,TRUE
+Amelia Murphy,6,Manager,female,digital marketing social media analytics,(888) 345-6789,amelia.murphy@email.com,5,888,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(999) 456-7890,benjamin.turner@email.com,5,999,email.com,TRUE
+Harper Adams,2,Content Creator,female,video editing social media seo,(111) 567-8901,harper.adams@email.com,5,111,email.com,TRUE
+Henry Martinez,7,Analyst,male,data cleaning visualization excel,(222) 678-9012,henry.martinez@email.com,5,222,email.com,TRUE
+Grace Baker,4,Designer,female,wireframing user research prototyping,(333) 789-0123,grace.baker@email.com,5,333,email.com,TRUE
+Samuel Turner,1,Developer,male,python django rest api,(444) 890-1234,samuel.turner@email.com,3,444,email.com,TRUE
+Victoria Cook,5,Marketing Specialist,female,seo content creation email marketing,(555) 901-2345,victoria.cook@email.com,5,555,email.com,TRUE
+Joseph Turner,10,Manager,male,it infrastructure team leadership,(666) 012-3456,joseph.turner@email.com,5,666,email.com,TRUE
+Natalie Adams,3,Designer,female,adobe creative suite illustration,(777) 123-4567,natalie.adams@email.com,5,777,email.com,TRUE
+Christopher Foster,6,Manager,male,product strategy market analysis,(888) 234-5678,christopher.foster@email.com,5,888,email.com,TRUE
+Olivia Turner,4,Hr Specialist,female,employee relations recruitment,(999) 345-6789,olivia.turner@email.com,5,999,email.com,TRUE
+Andrew Adams,12,Developer,male,java spring database design,(111) 456-7890,andrew.adams@email.com,5,111,email.com,TRUE
+Chloe Martinez,1,Designer,female,ui/ux design wireframing adobe xd,(222) 567-8901,chloe.martinez@email.com,3,222,email.com,TRUE
+Daniel Foster,7,Designer,male,industrial design cad 3d modeling,(333) 678-9012,daniel.foster@email.com,5,333,email.com,TRUE
+Sophia Murphy,9,Data Scientist,female,python machine learning data analysis,(444) 789-0123,sophia.murphy@email.com,5,444,email.com,TRUE
+Liam Turner,2,Developer,male,html css javascript react,(555) 890-1234,liam.turner@email.com,5,555,email.com,TRUE
+Isabella Adams,3,Content Writer,female,copywriting blogging seo,(666) 901-2345,isabella.adams@email.com,5,666,email.com,TRUE
+Jackson Turner,8,Engineer,male,testing test automation bug tracking,(777) 012-3456,jackson.turner@email.com,5,777,email.com,TRUE
+Olivia Cook,5,Manager,female,product strategy agile market analysis,(888) 123-4567,olivia.cook@email.com,5,888,email.com,TRUE
+Ethan Adams,6,Analyst,male,data analysis reporting excel,(999) 234-5678,ethan.adams@email.com,5,999,email.com,TRUE
+Mia Foster,3,Software Architect,female,system design java cloud architecture,(111) 345-6789,mia.foster@email.com,5,111,email.com,TRUE
+Lucas Turner,4,Designer,male,user research wireframing adobe xd,(222) 456-7890,lucas.turner@email.com,5,222,email.com,TRUE
+Amelia Murphy,6,Manager,female,digital marketing social media analytics,(333) 567-8901,amelia.murphy@email.com,5,333,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(444) 678-9012,benjamin.turner@email.com,5,444,email.com,TRUE
+Harper Adams,2,Content Creator,female,video editing social media seo,(555) 789-0123,harper.adams@email.com,5,555,email.com,TRUE
+Henry Martinez,7,Analyst,male,data cleaning visualization excel,(666) 890-1234,henry.martinez@email.com,5,666,email.com,TRUE
+Grace Baker,4,Designer,female,wireframing user research prototyping,(777) 901-2345,grace.baker@email.com,5,777,email.com,TRUE
+Samuel Turner,1,Developer,male,python django rest api,(888) 012-3456,samuel.turner@email.com,3,888,email.com,TRUE
+Victoria Cook,5,Marketing Specialist,female,seo content creation email marketing,(999) 123-4567,victoria.cook@email.com,5,999,email.com,TRUE
+Joseph Turner,10,Manager,male,it infrastructure team leadership,(111) 234-5678,joseph.turner@email.com,5,111,email.com,TRUE
+Natalie Adams,3,Designer,female,adobe creative suite illustration,(222) 345-6789,natalie.adams@email.com,5,222,email.com,TRUE
+Christopher Foster,6,Manager,male,product strategy market analysis,(333) 456-7890,christopher.foster@email.com,5,333,email.com,TRUE
+Olivia Turner,4,Hr Specialist,female,employee relations recruitment,(444) 567-8901,olivia.turner@email.com,5,444,email.com,TRUE
+Andrew Adams,12,Developer,male,java spring database design,(555) 678-9012,andrew.adams@email.com,5,555,email.com,TRUE
+Chloe Martinez,1,Designer,female,ui/ux design wireframing adobe xd,(666) 789-0123,chloe.martinez@email.com,3,666,email.com,TRUE
+Daniel Foster,7,Designer,male,industrial design cad 3d modeling,(777) 890-1234,daniel.foster@email.com,5,777,email.com,TRUE
+Sophia Murphy,9,Data Scientist,female,python machine learning data analysis,(888) 901-2345,sophia.murphy@email.com,5,888,email.com,TRUE
+Liam Turner,2,Developer,male,html css javascript react,(999) 012-3456,liam.turner@email.com,5,999,email.com,TRUE
+Isabella Adams,3,Content Writer,female,copywriting blogging seo,(111) 123-4567,isabella.adams@email.com,5,111,email.com,TRUE
+Jackson Turner,8,Engineer,male,testing test automation bug tracking,(222) 234-5678,jackson.turner@email.com,5,222,email.com,TRUE
+Olivia Cook,5,Manager,female,product strategy agile market analysis,(333) 345-6789,olivia.cook@email.com,5,333,email.com,TRUE
+Ethan Adams,6,Analyst,male,data analysis reporting excel,(444) 456-7890,ethan.adams@email.com,5,444,email.com,TRUE
+Mia Foster,3,Software Architect,female,system design java cloud architecture,(555) 567-8901,mia.foster@email.com,5,555,email.com,TRUE
+Lucas Turner,4,Designer,male,user research wireframing adobe xd,(666) 678-9012,lucas.turner@email.com,5,666,email.com,TRUE
+Amelia Murphy,6,Manager,female,digital marketing social media analytics,(777) 789-0123,amelia.murphy@email.com,5,777,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(888) 890-1234,benjamin.turner@email.com,5,888,email.com,TRUE
+Harper Adams,2,Content Creator,female,video editing social media seo,(999) 901-2345,harper.adams@email.com,5,999,email.com,TRUE
+Henry Martinez,7,Analyst,male,data cleaning visualization excel,(111) 012-3456,henry.martinez@email.com,5,111,email.com,TRUE
+Grace Baker,4,Designer,female,wireframing user research prototyping,(222) 123-4567,grace.baker@email.com,5,222,email.com,TRUE
+Samuel Turner,1,Developer,male,python django rest api,(333) 234-5678,samuel.turner@email.com,3,333,email.com,TRUE
+Victoria Cook,5,Marketing Specialist,female,seo content creation email marketing,(444) 345-6789,victoria.cook@email.com,5,444,email.com,TRUE
+Joseph Turner,10,Manager,male,it infrastructure team leadership,(555) 456-7890,joseph.turner@email.com,5,555,email.com,TRUE
+Natalie Adams,3,Designer,female,adobe creative suite illustration,(666) 567-8901,natalie.adams@email.com,5,666,email.com,TRUE
+Christopher Foster,6,Manager,male,product strategy market analysis,(777) 678-9012,christopher.foster@email.com,5,777,email.com,TRUE
+Olivia Turner,4,Hr Specialist,female,employee relations recruitment,(888) 789-0123,olivia.turner@email.com,5,888,email.com,TRUE
+Andrew Adams,12,Developer,male,java spring database design,(999) 890-1234,andrew.adams@email.com,5,999,email.com,TRUE
+Chloe Martinez,1,Designer,female,ui/ux design wireframing adobe xd,(111) 901-2345,chloe.martinez@email.com,3,111,email.com,TRUE
+Daniel Foster,7,Designer,male,industrial design cad 3d modeling,(222) 012-3456,daniel.foster@email.com,5,222,email.com,TRUE
+Sophia Murphy,9,Data Scientist,female,python machine learning data analysis,(333) 123-4567,sophia.murphy@email.com,5,333,email.com,TRUE
+Liam Turner,2,Developer,male,html css javascript react,(444) 234-5678,liam.turner@email.com,5,444,email.com,TRUE
+Isabella Adams,3,Content Writer,female,copywriting blogging seo,(555) 345-6789,isabella.adams@email.com,5,555,email.com,TRUE
+Jackson Turner,8,Engineer,male,testing test automation bug tracking,(666) 456-7890,jackson.turner@email.com,5,666,email.com,TRUE
+Olivia Cook,5,Manager,female,product strategy agile market analysis,(777) 567-8901,olivia.cook@email.com,5,777,email.com,TRUE
+Ethan Adams,6,Analyst,male,data analysis reporting excel,(888) 678-9012,ethan.adams@email.com,5,888,email.com,TRUE
+Mia Foster,3,Software Architect,female,system design java cloud architecture,(999) 789-0123,mia.foster@email.com,5,999,email.com,TRUE
+Lucas Turner,4,Designer,male,user research wireframing adobe xd,(111) 890-1234,lucas.turner@email.com,5,111,email.com,TRUE
+Amelia Murphy,6,Manager,female,digital marketing social media analytics,(222) 901-2345,amelia.murphy@email.com,5,222,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(333) 012-3456,benjamin.turner@email.com,5,333,email.com,TRUE
+Harper Adams,2,Content Creator,female,video editing social media seo,(444) 123-4567,harper.adams@email.com,5,444,email.com,TRUE
+Henry Martinez,7,Analyst,male,data cleaning visualization excel,(555) 234-5678,henry.martinez@email.com,5,555,email.com,TRUE
+Grace Baker,4,Designer,female,wireframing user research prototyping,(666) 345-6789,grace.baker@email.com,5,666,email.com,TRUE
+Samuel Turner,1,Developer,male,python django rest api,(777) 456-7890,samuel.turner@email.com,3,777,email.com,TRUE
+Victoria Cook,5,Marketing Specialist,female,seo content creation email marketing,(888) 567-8901,victoria.cook@email.com,5,888,email.com,TRUE
+Joseph Turner,10,Manager,male,it infrastructure team leadership,(999) 678-9012,joseph.turner@email.com,5,999,email.com,TRUE
+Natalie Adams,3,Designer,female,adobe creative suite illustration,(111) 789-0123,natalie.adams@email.com,5,111,email.com,TRUE
+Christopher Foster,6,Manager,male,product strategy market analysis,(222) 890-1234,christopher.foster@email.com,5,222,email.com,TRUE
+Olivia Turner,4,Hr Specialist,female,employee relations recruitment,(333) 901-2345,olivia.turner@email.com,5,333,email.com,TRUE
+Andrew Adams,12,Developer,male,java spring database design,(444) 012-3456,andrew.adams@email.com,5,444,email.com,TRUE
+Chloe Martinez,1,Designer,female,ui/ux design wireframing adobe xd,(555) 123-4567,chloe.martinez@email.com,3,555,email.com,TRUE
+Daniel Foster,7,Designer,male,industrial design cad 3d modeling,(666) 234-5678,daniel.foster@email.com,5,666,email.com,TRUE
+Sophia Murphy,9,Data Scientist,female,python machine learning data analysis,(777) 345-6789,sophia.murphy@email.com,5,777,email.com,TRUE
+Liam Turner,2,Developer,male,html css javascript react,(888) 456-7890,liam.turner@email.com,5,888,email.com,TRUE
+Isabella Adams,3,Content Writer,female,copywriting blogging seo,(999) 567-8901,isabella.adams@email.com,5,999,email.com,TRUE
+Jackson Turner,8,Engineer,male,testing test automation bug tracking,(111) 678-9012,jackson.turner@email.com,5,111,email.com,TRUE
+Olivia Cook,5,Manager,female,product strategy agile market analysis,(222) 789-0123,olivia.cook@email.com,5,222,email.com,TRUE
+Ethan Adams,6,Analyst,male,data analysis reporting excel,(333) 890-1234,ethan.adams@email.com,5,333,email.com,TRUE
+Mia Foster,3,Software Architect,female,system design java cloud architecture,(444) 901-2345,mia.foster@email.com,5,444,email.com,TRUE
+Lucas Turner,4,Designer,male,user research wireframing adobe xd,(555) 012-3456,lucas.turner@email.com,5,555,email.com,TRUE
+Amelia Murphy,6,Manager,female,digital marketing social media analytics,(666) 123-4567,amelia.murphy@email.com,5,666,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(777) 234-5678,benjamin.turner@email.com,5,777,email.com,TRUE
+Harper Adams,2,Content Creator,female,video editing social media seo,(888) 345-6789,harper.adams@email.com,5,888,email.com,TRUE
+Henry Martinez,7,Analyst,male,data cleaning visualization excel,(999) 456-7890,henry.martinez@email.com,5,999,email.com,TRUE
+Grace Baker,4,Designer,female,wireframing user research prototyping,(111) 567-8901,grace.baker@email.com,5,111,email.com,TRUE
+Samuel Turner,1,Developer,male,python django rest api,(222) 678-9012,samuel.turner@email.com,3,222,email.com,TRUE
+Victoria Cook,5,Marketing Specialist,female,seo content creation email marketing,(333) 789-0123,victoria.cook@email.com,5,333,email.com,TRUE
+Joseph Turner,10,Manager,male,it infrastructure team leadership,(444) 890-1234,joseph.turner@email.com,5,444,email.com,TRUE
+Natalie Adams,3,Designer,female,adobe creative suite illustration,(555) 901-2345,natalie.adams@email.com,5,555,email.com,TRUE
+Christopher Foster,6,Manager,male,product strategy market analysis,(666) 012-3456,christopher.foster@email.com,5,666,email.com,TRUE
+Olivia Turner,4,Hr Specialist,female,employee relations recruitment,(777) 123-4567,olivia.turner@email.com,5,777,email.com,TRUE
+Andrew Adams,12,Developer,male,java spring database design,(888) 234-5678,andrew.adams@email.com,5,888,email.com,TRUE
+Chloe Martinez,1,Designer,female,ui/ux design wireframing adobe xd,(999) 345-6789,chloe.martinez@email.com,3,999,email.com,TRUE
+Daniel Foster,7,Designer,male,industrial design cad 3d modeling,(111) 456-7890,daniel.foster@email.com,5,111,email.com,TRUE
+Sophia Murphy,9,Data Scientist,female,python machine learning data analysis,(222) 567-8901,sophia.murphy@email.com,5,222,email.com,TRUE
+Liam Turner,2,Developer,male,html css javascript react,(333) 678-9012,liam.turner@email.com,5,333,email.com,TRUE
+Isabella Adams,3,Content Writer,female,copywriting blogging seo,(444) 789-0123,isabella.adams@email.com,5,444,email.com,TRUE
+Jackson Turner,8,Engineer,male,testing test automation bug tracking,(555) 890-1234,jackson.turner@email.com,5,555,email.com,TRUE
+Olivia Cook,5,Manager,female,product strategy agile market analysis,(666) 901-2345,olivia.cook@email.com,5,666,email.com,TRUE
+Ethan Adams,6,Analyst,male,data analysis reporting excel,(777) 012-3456,ethan.adams@email.com,5,777,email.com,TRUE
+Mia Foster,3,Software Architect,female,system design java cloud architecture,(888) 123-4567,mia.foster@email.com,5,888,email.com,TRUE
+Lucas Turner,4,Designer,male,user research wireframing adobe xd,(999) 234-5678,lucas.turner@email.com,5,999,email.com,TRUE
+Amelia Murphy,6,Manager,female,digital marketing social media analytics,(111) 345-6789,amelia.murphy@email.com,5,111,email.com,TRUE
+Benjamin Turner,9,Engineer,male,ci/cd docker aws jenkins,(222) 456-7890,benjamin.turner@email.com,5,222,email.com,TRUE
+Harper Adams,2,Content Creator,female,video editing social media seo,(333) 567-8901,harper.adams@email.com,5,333,email.com,TRUE
+Henry Martinez,7,Analyst,male,data cleaning visualization excel,(444) 678-9012,henry.martinez@email.com,5,444,email.com,TRUE
+Grace Baker,4,Designer,female,wireframing user research prototyping,(555) 789-0123,grace.baker@email.com,5,555,email.com,TRUE
+Samuel Turner,1,Developer,male,python django rest api,(666) 890-1234,samuel.turner@email.com,3,666,email.com,TRUE

@@ -1,0 +1,31 @@
+/* styles.css */
+
+/* Example styling for headings */
+h1 {
+    color: black;
+}
+
+h2 {
+    color: #264653;
+}
+
+/* Example styling for paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Example styling for buttons */
+.stButton > button {
+    background-color: #e9c46a;
+    color: #264653;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.stButton > button:hover {
+    background-color: #f1faee;
+}
